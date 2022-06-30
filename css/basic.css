@@ -33,7 +33,7 @@ header{ }
 
 
 .menu_bg { position:fixed; top:0; left:-100%; width:100%; height:100%; background:rgba(0,0,0,0.9); z-index:10; } 
-.menu_bg_inner { position:relative; width:100%; height:100%; }
+.menu_bg_inner { position:relative; width:100%; height:100%;}
 .gnb { position:absolute; top:50%; left:50%; transform:translate(-50%, -50%);} 
 .gnb ul {}
 .gnb li { padding:20px 0; }
@@ -96,7 +96,7 @@ background-image:radial-gradient(circle at top left, rgba(0, 0, 0, 0)40%, rgba(0
 
 .btn_wrap a::before, .btn_wrap a::after { display:block; content:""; height:2px; position:absolute; bottom:0; }
 .btn_wrap a::before { width:100%; right:0; background:#fff; transition:width .3s .3s; }
-.btn_wrap a::after { width:0%; left:0; background:red; transition:width .3s 0s;}
+.btn_wrap a::after { width:0%; left:0; background:#00ffb3; transition:width .3s 0s;}
 
 .section01 .btn_wrap a::after {}
 .section02 .btn_wrap a::after { background:#f1ac15; }
