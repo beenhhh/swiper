@@ -99,10 +99,10 @@ background-image:radial-gradient(circle at top left, rgba(0, 0, 0, 0)40%, rgba(0
 .btn_wrap a::after { width:0%; left:0; background:#00ffb3; transition:width .3s 0s;}
 
 .section01 .btn_wrap a::after {}
-.section02 .btn_wrap a::after { background:#f1ac15; }
-.section03 .btn_wrap a::after { background:#02f74b; }
-.section04 .btn_wrap a::after { background:#39b2eb; }
-.section05 .btn_wrap a::after { background:#9932f8; } 
+.section02 .btn_wrap a::after { background:#e4f311; }
+.section03 .btn_wrap a::after { background:#e68b24; }
+.section04 .btn_wrap a::after { background:#c839eb; }
+.section05 .btn_wrap a::after { background:#0e68dd; } 
 
 
 
